@@ -1,0 +1,172 @@
+{
+  "clientes": [
+    {
+      "id": 3,
+      "email": "admin@mail.com",
+      "phone": "admi56n123",
+      "name": "Admin",
+      "role": "admin",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=9028"
+    },
+    {
+      "email": "user2@yahoo.com",
+      "name": "user2",
+      "phone": "user562",
+      "role": "customer",
+      "avatar": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/small-dog-breeds-cavalier-king-charles-spaniel-1583341713.jpg",
+      "id": 4
+    },
+    {
+      "name": "juan",
+      "role": "customer",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "notes": "dfd",
+      "id": 5
+    },
+    {
+      "name": "avatar",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 6,
+      "role": "customer"
+    },
+    {
+      "name": "tomato",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 7,
+      "role": "customer"
+    },
+    {
+      "name": "tomato",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 8,
+      "role": "customer"
+    },
+    {
+      "name": "mahmoud",
+      "email": "mahmoudd@gmail.com",
+      "phone": "bebb56wasd",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "id": 9,
+      "role": "customer"
+    },
+    {
+      "name": "mahmoud",
+      "email": "mahmoudd@gmail.com",
+      "phone": "bebb56wasd",
+      "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+      "id": 10,
+      "role": "customer"
+    },
+    {
+      "name": "nadia",
+      "email": "hi@mail.com",
+      "phone": "1234565",
+      "role": "customer",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__480.png",
+      "id": 11
+    },
+    {
+      "name": "guesswho",
+      "email": "herewego@mail.com",
+      "phone": "1234565",
+      "role": "customer",
+      "avatar": "https://www.newprosoft.com/webcontentextractor/documentation/images/url_generator.gif",
+      "id": 12
+    },
+    {
+      "name": "tomato",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 13,
+      "role": "customer"
+    },
+    {
+      "name": "tomato",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 14,
+      "role": "customer"
+    },
+    {
+      "name": "tomato",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 15,
+      "role": "customer"
+    },
+    {
+      "name": "tomato",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 16,
+      "role": "customer"
+    },
+    {
+      "name": "tomato",
+      "email": "test@test.com",
+      "phone": "1234565678",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPZErS8C9rlc7M5kc81IJko7oqaEZkiayIdQ&usqp=CAU",
+      "id": 17,
+      "role": "customer"
+    },
+    {
+      "name": "hi",
+      "email": "ahsd@mail.com",
+      "phone": "123456",
+      "role": "customer",
+      "avatar": "https://www.newprosoft.com/webcontentextractor/documentation/images/url_generator.gif",
+      "id": 18
+    },
+    {
+      "name": "created",
+      "email": "heh@mail.com",
+      "phone": "123456",
+      "role": "customer",
+      "avatar": "https://www.newprosoft.com/webcontentextractor/documentation/images/url_generator.gif",
+      "id": 19
+    },
+    {
+      "name": "hello",
+      "email": "hello@mail.com",
+      "phone": "1234565",
+      "role": "admin",
+      "avatar": "https://www.newprosoft.com/webcontentextractor/documentation/images/url_generator.gif",
+      "id": 20
+    },
+    {
+      "name": "hiagain",
+      "email": "hiagain@mail.com",
+      "phone": "1234565",
+      "role": "customer",
+      "avatar": "https://www.newprosoft.com/webcontentextractor/documentation/images/url_generator.gif",
+      "id": 21
+    },
+    {
+      "name": "well",
+      "email": "well@mail.com",
+      "phone": "1234565",
+      "role": "customer",
+      "avatar": "https://www.newprosoft.com/webcontentextractor/documentation/images/url_generator.gif",
+      "id": 22
+    },
+    {
+      "name": "nata",
+      "email": "ohno@mail.com",
+      "phone": "1234565",
+      "role": "customer",
+      "avatar": "https://www.newprosoft.com/webcontentextractor/documentation/images/url_generator.gif",
+      "id": 24
+    }
+  ]
+}
